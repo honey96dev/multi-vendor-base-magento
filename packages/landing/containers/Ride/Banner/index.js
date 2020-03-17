@@ -34,7 +34,7 @@ const BannerSection = ({
               {...greetingStyle}
             />
             <Heading content="It's in your hand. " {...greetingStyleTwo} />
-            <EmailInputWrapper>
+            {/* <EmailInputWrapper>
               <Input
                 inputType="email"
                 placeholder="Enter Email Address"
@@ -50,7 +50,7 @@ const BannerSection = ({
             <Text
               content="We’ll send you a text with a link to download the app."
               {...aboutStyle}
-            />
+            /> */}
             <Fade up>
               <div className="bannerImageBtn">
                 <Link href="#1">

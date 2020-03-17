@@ -61,16 +61,16 @@ export const MENU_LEFT_ITEMS = [
   },
 ];
 export const MENU_RIGHT_ITEMS = [
-  {
-    label: 'Login',
-    path: '#',
-    offset: '70',
-  },
-  {
-    label: 'Sign Up',
-    path: '#',
-    offset: '70',
-  },
+  // {
+  //   label: 'Login',
+  //   path: '#',
+  //   offset: '70',
+  // },
+  // {
+  //   label: 'Sign Up',
+  //   path: '#',
+  //   offset: '70',
+  // },
 ];
 
 export const Features = [
